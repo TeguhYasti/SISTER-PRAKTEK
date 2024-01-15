@@ -1,0 +1,5 @@
+com\teguh\matakuliah\service\MatakuliahService.class
+com\teguh\matakuliah\entity\Matakuliah.class
+com\teguh\matakuliah\MatakuliahApplication.class
+com\teguh\matakuliah\controller\MatakuliahController.class
+com\teguh\matakuliah\repository\MatakuliahRepository.class

@@ -1,0 +1,5 @@
+com\teguh\mahasiswa\repository\MahasiswaRepository.class
+com\teguh\mahasiswa\controller\MahasiswaController.class
+com\teguh\mahasiswa\entity\Mahasiswa.class
+com\teguh\mahasiswa\MahasiswaApplication.class
+com\teguh\mahasiswa\service\MahasiswaService.class

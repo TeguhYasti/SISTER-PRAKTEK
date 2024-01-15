@@ -1,0 +1,8 @@
+com\teguh\nilai\service\NilaiService.class
+com\teguh\nilai\entity\Nilai.class
+com\teguh\nilai\NilaiApplication.class
+com\teguh\nilai\controller\NilaiController.class
+com\teguh\nilai\vo\Matakuliah.class
+com\teguh\nilai\vo\ResponseTemplate.class
+com\teguh\nilai\vo\Mahasiswa.class
+com\teguh\nilai\repository\NilaiRepository.class
